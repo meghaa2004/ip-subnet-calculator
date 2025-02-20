@@ -30,6 +30,3 @@ Default Gateway: 192.168.1.1
 Total Number of Hosts: 256
 Number of Usable Hosts: 254
 ```
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
